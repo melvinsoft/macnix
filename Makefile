@@ -1,4 +1,4 @@
-HOSTNAME=aeon
+HOSTNAME=maxi
 
 .PHONY: deploy
 deploy:
